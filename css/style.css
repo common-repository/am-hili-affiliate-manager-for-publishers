@@ -1,0 +1,32 @@
+.am_hili_wrap h3 {text-transform:uppercase}
+.am_hili_wrap a, .am_hili_wrap .fa{cursor:pointer}
+.am_hili_wrap .fa {cursor:pointer;font-size:18px;}
+.am_hili_wrap {background:#FFF;padding:20px;margin-top:0px}
+.am_hili_wrap table {padding:20px;font-weight:normal}
+.am_hili_wrap table th {text-transform:capitalize; white-space:nowrap}
+.am_hili_wrap table table{padding:0px}
+.am_hili_wrap table td li{border-bottom:1px dashed #EEE;}
+.am_hili_wrap table th{vertical-align:top}
+.am_hili_wrap table td li:hover{color:red}
+.am_hili_wrap table th,.am_hili_wrap table td{padding:2px 8px;vertical-align:top}
+.am_hili_wrap table.amhili .money{text-align:right;padding-right:20px}
+div.am_hili_date_select input[type='text']{width:100px}
+.am_hili_wrap table.amhiliSetting td{padding-left:40px}
+
+table.amhili_report{padding:20px}
+table.amhili_report tr:hover{background:#eee}
+table.amhili_report td{border-bottom:1px dotted #eee;}
+table.amhili_report th{font-weight:bold}
+table.amhili_report th.bookkeeping_total{border-top:2px solid #000;border-bottom:2px solid #000;}
+
+.am_hili_wrap a.button{margin:0px;text-transform:uppercase !important;font-size:12px}
+.am_hili_wrap a.amHiliAddEditeCancel{background:orange;color:white;border-color:fefefe}
+.am_hili_wrap a.hiliBtnSelected,.am_hili_wrap a.button:hover{background:#ccc !important;color:#fff}
+.am_hili_wrap a.rightHiliBtn{background:#123456 !important;color:#fff}
+.am_hili_wrap a.rightHiliBtn:hover{background:orange !important;color:#fff;border:1px solid orange }
+ul.am_hili_menu li{float:left;margin:0px;}
+ul.am_hili_menu {background:#eee;overflow:hidden;padding:0px;margin:0px;border-bottom:4px solid #ccc;border-radius:3px};
+#am_hili_charts_divs .am_hili_chart_div{border:1px solid #ccc !important;max-width:100%;overflow:hidden}
+
+.am_hili_wrap .amHiliFooterMenu{text-align:center;background:#efefef;margin-top:20px;padding:5px 10px;}
+.am_hili_wrap .amHiliFooterMenu a {text-decoration:none;text-transform:uppercase}
